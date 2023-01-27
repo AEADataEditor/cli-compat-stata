@@ -16,6 +16,9 @@ These provide commands that are missing from CLI versions of Stata.
 ```Stata
 * cli-compat may be installed directly from GitHub
 net install cli-compat, all replace from("https://raw.githubusercontent.com/aeadataeditor/cli-compat-stata/master")
+
+* or a specific version, e.g. v1.0.0
+net install cli-compat, all replace from("https://raw.githubusercontent.com/aeadataeditor/cli-compat-stata/v1.0.0/")
 ```
 
 ## Why?
