@@ -1,0 +1,18 @@
+v 1.0.0
+d 'cli-compat': Commands that provide compatibility with programs written with GUI Stata in mind.
+d These provide commands that are missing from CLI versions of Stata.
+d This should be harmless on GUI systems!
+d
+d KW: technical
+d KW: compatibility
+d
+d Requires: Stata version any
+d
+d Distribution-Date: 20230123
+d
+d Authors: Lars Vilhuber, Sergio Correa
+d Support: On Github
+f ado/browse.ado
+f ado/cls.ado
+f ado/pause.ado
+
