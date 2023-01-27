@@ -20,8 +20,8 @@ net install cli-compat, all replace from("https://raw.githubusercontent.com/aead
 
 ## Why?
 
-This is useful when sending author-written programs through command-line (Linux) only checkers. Inspired by `rep-box` (Sebastian Kranz), suggested by Sergio Correa.
+This is useful when sending author-written programs through command-line (Linux) only checkers. Inspired by `rep-box` (Sebastian Kranz), suggested by Sergio Correia.
 
 ## Current Author(s)
  - Lars Vilhuber
- - Sergio Correa
+ - Sergio Correia

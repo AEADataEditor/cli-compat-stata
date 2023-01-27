@@ -10,7 +10,7 @@ d Requires: Stata version any
 d
 d Distribution-Date: 20230123
 d
-d Authors: Lars Vilhuber, Sergio Correa
+d Authors: Lars Vilhuber, Sergio Correia
 d Support: On Github
 f ado/browse.ado
 f ado/cls.ado
