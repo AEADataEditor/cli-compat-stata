@@ -10,6 +10,7 @@ These provide commands that are missing from CLI versions of Stata.
 - `pause`
 - `browse`
 - `cls`
+- `edit`
 
 ## Installation
 

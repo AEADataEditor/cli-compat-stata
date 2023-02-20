@@ -6,7 +6,7 @@
 {title:Syntax}
 
 {phang}
-Provide compatibility with GUI versions of Stata. Commands include {cmd:pause}, {cmd:cls}, and {cmd:browse}.
+Provide compatibility with GUI versions of Stata. Commands include {cmd:pause}, {cmd:cls}, {cmd:edit}, and {cmd:browse}.
 
 {title:Acknowledgements}
 
