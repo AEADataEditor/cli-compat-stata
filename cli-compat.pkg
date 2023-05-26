@@ -13,7 +13,9 @@ d
 d Authors: Lars Vilhuber, Sergio Correia
 d Support: On Github
 f ado/browse.ado
+f ado/br.ado
 f ado/cls.ado
 f ado/pause.ado
 f ado/edit.ado
+f ado/ed.ado
 

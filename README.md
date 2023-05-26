@@ -12,6 +12,11 @@ These provide commands that are missing from CLI versions of Stata.
 - `cls`
 - `edit`
 
+### Abbreviations
+
+- `ed` (for `edit`)
+- `br` (for `browse`)
+
 ## Installation
 
 ```stata
