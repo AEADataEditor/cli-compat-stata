@@ -1,12 +1,13 @@
 {smcl}
-{* *! version 1.0.0 }{...}
+{* *! version 1.1.0 }{...}
 
-{cmd:cli-compat} {c -} Wrapper package for a few commands
+{cmd:cli-compat} {c -} Wrapper package for a few commands that do not exist in the command-line version of Stata on Linux.
 
 {title:Syntax}
 
 {phang}
-Provide compatibility with GUI versions of Stata. Commands include {cmdab:pause}, {cmdab:cls}, {cmdab:ed:it}, and {cmdab:br:owse}.
+Provide compatibility with GUI versions of Stata. Commands include {cmd:pause}, {cmd:cls}, {cmdab:ed:it}, {cmd:window} and {cmdab:br:owse}. 
+These commands only exist in GUI versions (for some reason), and break code when run in command line versions.
 
 {title:Acknowledgements}
 
@@ -17,4 +18,4 @@ by Lars based on an idea on Twitter by Sergio Correia. Sebastian Kranz played mi
 
 {pstd}Lars Vilhuber, Cornell University{p_end}
 {pstd}Sergio Correia, Federal Reserve Board{p_end}
-{pstd}{it:Last updated: 26 January 2023}{p_end}
+{pstd}{it:Last updated: 16 April 2024}{p_end}

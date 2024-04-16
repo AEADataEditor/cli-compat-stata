@@ -1,4 +1,4 @@
-v 1.1.0
+v 1.2.0
 d 'cli-compat': Commands that provide compatibility with programs written with GUI Stata in mind.
 p These provide commands that are missing from CLI versions of Stata,
 p including where applicable abbreviations.
